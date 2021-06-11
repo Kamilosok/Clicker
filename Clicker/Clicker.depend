@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600029350 source:c:\users\marcin\desktop\dobry folder\zadania codeblocks\clicker\kliker.cpp
+	<iostream>
+	<windows.h>
+	<cmath>
+	<limits>
+	"Kliker.h"
+
+1599939036 c:\users\marcin\desktop\dobry folder\zadania codeblocks\clicker\kliker.h
+	<iostream>
+
+1598555750 source:c:\users\marcin\desktop\dobry folder\zadania codeblocks\clicker\main.cpp
+	<iostream>
+	"Kliker.h"
+
